@@ -47,9 +47,9 @@ This dataset contains 14 features and a target column indicating presence of hea
 
 ##  Results
 
-- Decision Tree Accuracy: ~[your value]  
-- Random Forest Accuracy: ~[your value]  
-- Cross-validation Accuracy: ~[your value]  
+- Decision Tree Accuracy: ~[98.53%]  
+- Random Forest Accuracy: ~[98.53%]  
+- Cross-validation Accuracy: ~[99.70%]  
 - Most important features: [e.g., 'cp', 'thalach', 'exang']
 
 ---
@@ -61,17 +61,4 @@ This dataset contains 14 features and a target column indicating presence of hea
 
 ---
 
-##  Conclusion
 
-This task helped explore:
-- How decision trees split data based on features.
-- How to control overfitting using depth.
-- The power of ensemble learning using Random Forests.
-- Interpreting feature importance to gain insights.
-
----
-
-##  Submission
-
-GitHub Repo Link: [Paste your repository link here]  
-Submit via: [https://forms.gle/8Gm83s53KbyXs3Ne9](https://forms.gle/8Gm83s53KbyXs3Ne9)
