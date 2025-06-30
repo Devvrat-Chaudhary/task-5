@@ -9,7 +9,7 @@ Learn tree-based machine learning models for classification using Decision Trees
 ##  Dataset Used
 
 **Heart Disease Dataset**  
-Source: [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)  
+Source: [Heart Disease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)  
 This dataset contains 14 features and a target column indicating presence of heart disease.
 
 ---
@@ -56,7 +56,8 @@ This dataset contains 14 features and a target column indicating presence of hea
 
 ##  Files Included
 
-- `task5_decision_tree_random_forest.ipynb`: Jupyter Notebook with all code and plots.
+- `Task5`: Jupyter Notebook with all code and plots.
+- `Heart Disease Dataset`: Dataset.
 - `README.md`: This file.
 
 ---
